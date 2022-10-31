@@ -1,0 +1,96 @@
+body {
+    color: #31231E;
+    background-color: #E2F1AF;
+    font-family: fantasy;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    background-color: #E3D888;
+    margin: 0;
+    width: 750px;
+    padding: 20px;
+    border: 2px solid;
+    margin: 20px auto;
+}
+
+h3 {
+    margin: 0;
+    width: 750px;
+    margin: 20px auto;
+}
+
+.results {
+    background-color: #84714F;
+    margin: 20 0 200 0; 
+    color: #E2F1AF;
+    height: 150px;
+    width: 500px;
+    padding: 10px;
+    margin: 20px auto;
+    font-size: xx-large;
+    border-radius: 5px;;
+    
+}
+
+.score {
+    width: 300px;
+    border: 2px solid ;
+    border-radius: 5px;
+    margin: 20px auto;
+    background-color: #E3D888;
+}
+
+
+
+#wizard {
+    background: url('witch.png');
+            background-size: cover; 
+            border-radius: 100px;
+            border: 5px solid #31231E;
+            width: 200px;
+            height: 200px;
+            font-size: 2rem;
+            font-family: fantasy;
+            font-weight: 900;
+            color: #31231E;
+            text-shadow: 2px 2px #E2F1AF;
+            top: 180px;
+            
+}
+
+#giant {
+    background: url('man.png');
+            background-size: cover; 
+            opacity: 1.0;
+            border-radius: 100px;
+            border: 5px solid #31231E;
+            width: 200px;
+            height: 200px;
+            font-size: 2rem;
+            font-family: fantasy;
+            font-weight: 900;
+            color: #31231E;
+            text-shadow: 2px 2px #E2F1AF;
+}
+#elves {
+    background: url('elf.png');
+            background-size: cover;  
+            border-radius: 100px;
+            border: 5px solid #31231E;
+            width: 200px;
+            height: 200px;
+            font-size: 2rem;
+            font-family: fantasy;
+            font-weight: 900;
+            color: #31231E;
+            text-shadow: 2px 2px #E2F1AF;
+}
+.container {
+    margin: 20px;
+}
+/* .results {
+    margin: 20px;
+} */

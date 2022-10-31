@@ -1,0 +1,1 @@
+Wizards, Giants, Elves is a variant of Rock, Paper, Scissors.
